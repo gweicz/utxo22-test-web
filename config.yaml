@@ -1,5 +1,5 @@
 baseURL: "http://example.org/"
-languageCode: "en-us"
+languageCode: "cs-cz"
 theme: "hyde"
 title: "UTXO.22"
 params:
