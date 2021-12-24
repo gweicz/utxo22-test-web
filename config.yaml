@@ -1,0 +1,19 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+theme: "hyde"
+title: "UTXO.22"
+params:
+  disqusShortname: ""
+  googleAnalytics: ""
+  layoutReverse: false
+  theme: "hyde"
+  themeColor: ""
+  description: |
+    4.-5.6. 2022, 🇨🇿 Praha 
+    Otevřená kryptoměnová komunitní konference
+Menus:
+  main:
+    - Name: "Dokumentace"
+      URL: "https://docs.utxo.cz"
+    - Name: "Discord"
+      URL: "https://discord.gg/hKuqyYPcxQ"
