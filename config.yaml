@@ -1,4 +1,4 @@
-baseURL: "http://utxo.cz/"
+baseURL: "https://utxo.cz/"
 languageCode: "cs-cz"
 theme: "hyde"
 title: "UTXO.22"
