@@ -16,5 +16,9 @@ Menus:
   main:
     - Name: "Dokumentace"
       URL: "https://docs.utxo.cz"
+    - Name: "Twitter"
+      URL: "https://twitter.com/utxocz"
+    - Name: "Telegram"
+      URL: "https://t.me/utxocz"
     - Name: "Discord"
       URL: "https://discord.gg/hKuqyYPcxQ"
