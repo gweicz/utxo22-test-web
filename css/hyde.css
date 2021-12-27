@@ -58,6 +58,7 @@ html {
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
+  background-image:linear-gradient(-30deg, #FF634D 0px, #00A1FE 100%);
 }
 @media (min-width: 48em) {
   .sidebar {
