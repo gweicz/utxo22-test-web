@@ -8,10 +8,8 @@ params:
   layoutReverse: false
   theme: "hyde"
   themeColor: ""
-  description: |
-    4.-5. červen 2022,  🇨🇿 Praha 
-  description2: |
-    Otevřená komunitní kryptoměnová konference
+  description: "4.-5. červen 2022, 🇨🇿 Praha "
+  description2: "Otevřená komunitní kryptoměnová konference"
 Menus:
   sidebar:
     - Name: "Dokumentace"
