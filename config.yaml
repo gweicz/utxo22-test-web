@@ -13,7 +13,7 @@ params:
   description2: |
     Otevřená komunitní kryptoměnová konference
 Menus:
-  main:
+  sidebar:
     - Name: "Dokumentace"
       URL: "https://docs.utxo.cz"
     - Name: "Twitter"
@@ -22,3 +22,4 @@ Menus:
       URL: "https://t.me/utxocz"
     - Name: "Discord"
       URL: "https://discord.gg/hKuqyYPcxQ"
+
