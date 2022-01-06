@@ -26,8 +26,8 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Add custom domain
-        run: "touch public/CNAME && echo \"utxo.cz\" >> public/CNAME"
+#      - name: Add custom domain
+#        run: "touch public/CNAME && echo \"utxo.cz\" >> public/CNAME"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
